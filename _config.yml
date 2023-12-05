@@ -83,40 +83,12 @@ author:
   name             : "Michele Mugnaine"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher at the Institute of Physics of the University of São Paulo"
-  location         : "São Paulo, SP, Brazil"
-  employer         :
-  pubmed           : ""
+  location         : "http://portal.if.usp.br/ifusp/"
   googlescholar    : "https://scholar.google.com/citations?user=H4Gbz00AAAAJ&hl=pt-BR"
-  email            :
   researchgate     :  "https://www.researchgate.net/profile/Michele-Mugnaine"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "https://github.com/mmugnaine"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
   orcid            : "https://orcid.org/0000-0002-8169-4723"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : " "
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
+ 
 # Reading Files
 include:
   - .htaccess
