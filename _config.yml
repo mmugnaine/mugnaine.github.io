@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Michele Mugnaine"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at Institute of Physics of University of São Paulo"
-  location         : "Location"
+  bio              : "Postdoctoral researcher at the Institute of Physics of the University of São Paulo"
+  location         : "São Paulo, SP, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=H4Gbz00AAAAJ&hl=pt-BR"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Michele-Mugnaine"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mmugnaine"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8169-4723"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : " "
   vine             :
   weibo            :
   xing             :
