@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele Mugnaine"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Michele Mugnaine"
 description              : &description "personal description"
@@ -86,9 +86,10 @@ author:
   location         : "São Paulo, SP, Brazil"
   googlescholar    : "https://scholar.google.com/citations?user=H4Gbz00AAAAJ&hl=pt-BR"
   researchgate     :  "https://www.researchgate.net/profile/Michele-Mugnaine"
-  github           : "https://github.com/mmugnaine"
+  github           : "mmugnaine"
   orcid            : "https://orcid.org/0000-0002-8169-4723"
- 
+  #uri              : "http://web.if.usp.br/controle/node/323"
+
 # Reading Files
 include:
   - .htaccess
