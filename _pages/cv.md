@@ -66,22 +66,53 @@ State University of Ponta Grossa
 
 
 ## Publications
-  <ul>{% for post in site.publications %}
+<ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Conference presentations
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Oral presentations
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1. 1st Applied Dynamics Workshop. Curitiba, PR - Brazil. May 2023. Mugnaine, M. *“Multistability and chaotic attractor crisis in the non-twist sine-circle map”*.
+
+2. Dynamics Days Europe 2021. Nice - France. August 2021 Mugnaine, M.; Batista, A. M. ; Caldas, I. L. ; Szezech Jr., J. D. ; Carvalho, R. E. ; Viana, R. L. *“Dissipation in the standard nontwist map: the route to chaos and the coexistence of attractors”* (online presentation).
+
+3. International Max Planck Research School for Many Particle Systems in Structured Environments. Karpacz - Poland. September 2019. Mugnaine, M.; Andrade, F. M. ; Szezech, J. D. ; Bazeia, D. *“Basin Entropy Method Applied to a Cyclic Three-Species Competition Model”*.
+
+4. School and Workshop on Patterns of Synchrony: Chimera States and Beyond. Trieste - Italy. May 2019. Mugnaine, M.  *“Transport barriers and flux of trajectories in nontwist systems”*.
+
+5. Seminars in the Graduate Program in Science/Physics - UEPG. Ponta Grossa, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Transport in Nontwist Hamiltonian Systems”*.
+
+6. Workshop on applied non-linear dynamics in the Graduate Program in Physics at UFPR. Curitiba, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Symmetry breaking on non-twist maps”*.
+
+### Poster presentation
+
+1. 65th Annual Meeting of the APS Division of Plasma Physics. Denver - USA. October 2023. M. Mugnaine, I. L. Caldas, P. J. Morrison. *“Maps for different scenarios of confined fusion plasmas”*.
+
+2. Nonlinear Data Analysis and Modeling: Advances, Applications, Perspectives. Potsdam - Germany. March 2023. Mugnaine, M.; Gabrick, Enrique C. ; Protachevicz, Paulo R. ; Iarosz, K. C. ; De Souza, Silvio L.T. ; Almeida, Alexandre C.L. ; Batista, Antonio M. ; Caldas, Iberê L. ; Szezech Jr, José D. ; Viana, Ricardo L. *“Control attenuation and second wave scenario in a cellular automata SEIR epidemic model”*.
+
+3. Autumn Meeting of the Brazilian Physical Society. São Paulo, SP - Brazil. April 2022. Mugnaine, M.; Batista, A. M. ; Caldas, I. L. ; Carvalho, R. E. ; Viana, R. L. ; Szezech Jr, J. D. *“Route to chaos and the coexistence of attractors in dissipative nontwist systems”*.
+
+4. 1st Perspectives on Oscillation Control. São Paulo, SP - Brazil. November 2019. Mugnaine, M.; Batista, A. M. ; Caldas, I. L. ; Szezech, J. D. ; Viana, R. L. *“Escape basin method applied to the evaluation of the parameter space for asymmetric nontwist system”*.
+
+5. Conference on Perspectives in Nonlinear Dynamics. São Paulo, SP - Brazil. July 2019. Mugnaine, M.; Mathias, A. C. ; Santos, M. S. ; Batista, A. M. ; Szezech, J. D. ; Viana, R. L. *“Dynamical description of trajectories flux in the phase space for nontwist Hamiltonian systems”*.
+
+6. Dynamics Days Latin America and the Caribbean. Punta del Este - Uruguay. December 2018. Mugnaine, M.; Mathias, A. C. ; Santos, M. S. ; Batista, A. M. ; Szezech Jr., J. D. ; Viana, R. L. *“Turnstiles as a mechanism of increasing the flux of trajectories in Hamiltonian systems”*.
+
+7. 7th International Symposium on Recurrence Plots. São Paulo, SP - Brazil. August 2017. Mugnaine, M.; Santos, M. S. ; Batista, A. M. ; Viana, R. L. ; Caldas, I. L. ; Szezech Jr., J. D. *“Application of the recurrence plot for nontwist systems”*.
+
+## References
+
+* **Iberê Luiz Caldas, Professor  (Postdoc supervisor)**\
+Institute of Physics - University of São Paulo \
+Email: ibere@if.usp.br
+
+* **Ricardo Luiz Viana, Professor (Ph.D. advisor)**\
+Department of Physics - Federal University of Paraná\
+Email: rlv640@gmail.com
+
+* **José Danilo Szezech Jr., Professor  (M.Sc. advisor)**\
+Department of Mathematics and Statistics - State University of Ponta Grossa\
+Email: jdsjunior@uepg.br
+
