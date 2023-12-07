@@ -36,8 +36,8 @@ State University of Ponta Grossa\
 
 
 
-## Research experience
-* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>\
+## Researche experience
+* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>
 University of São Paulo\
   * Postdoctoral researcher at the Institute of Physics of University of São Paulo
   * Theoretical and numerical investigation of Oscillations in Magnetically Confined Plasmas
@@ -66,9 +66,42 @@ State University of Ponta Grossa
 
 
 ## Publications
-<ol>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+
+1. Mugnaine, M., Caldas, I. L., Szezech Jr, J. D., & Viana, R. L. (2023). [Nontwist field line mapping in a tokamak with ergodic magnetic limiter](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.055206). *Physical Review E*, 108(5), 055206.
+
+2. Viana, R. L., Mugnaine, M., & Caldas, I. L. (2023). [Hamiltonian description for magnetic field lines in fusion plasmas: A tutorial](https://pubs.aip.org/aip/pop/article/30/9/090901/2913098/Hamiltonian-description-for-magnetic-field-lines). *Physics of Plasmas, 30(9)*.
+
+3. Sales, M. R., Mugnaine, M., Szezech, J. D., Viana, R. L., Caldas, I. L., Marwan, N., & Kurths, J. (2023). [Stickiness and recurrence plots: An entropy-based approach](https://pubs.aip.org/aip/cha/article/33/3/033140/2881440/Stickiness-and-recurrence-plots-An-entropy-based). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(3)*.
+
+4. Mugnaine, M., Sales, M. R., Szezech Jr, J. D., & Viana, R. L. (2022). [Dynamics, multistability, and crisis analysis of a sine-circle nontwist map](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034203). *Physical Review E, 106(3), 034203*.
+
+5. Gabrick, E. C., Protachevicz, P. R., Batista, A. M., Iarosz, K. C., de Souza, S. L., Almeida, A. C., Szezech Jr., J. D., Mugnaine, M.,  & Caldas, I. L. (2022). [Effect of two vaccine doses in the SEIR epidemic model using a stochastic cellular automaton](https://www.sciencedirect.com/science/article/pii/S0378437122002278). *Physica A: Statistical Mechanics and its Applications, 597, 127258*.
+
+6. Sales, M. R., Mugnaine, M., Viana, R. L., Caldas, I. L., & Szezech Jr, J. D. (2022). [Unpredictability in Hamiltonian systems with a hierarchical phase space](https://www.sciencedirect.com/science/article/pii/S0375960122000731). *Physics Letters A, 431, 127991*.
+
+7. Mugnaine, M., Gabrick, E. C., Protachevicz, P. R., Iarosz, K. C., de Souza, S. L., Almeida, A. C., Batista, A. M., Caldas, I. L., Szezech Jr., J. D & Viana, R. L. (2022). [Control attenuation and temporary immunity in a cellular automata SEIR epidemic model](https://www.sciencedirect.com/science/article/pii/S0960077921011371). *Chaos, Solitons & Fractals, 155, 111784*.
+
+8. Batista, A. M., de Souza, S. L., Iarosz, K. C., Almeida, A. C., Szezech Jr, J. D., Gabrick, E. C., Mugnaine, M., dos Santos, G. L., & Caldas, I. L. (2021). [Simulation of deterministic compartmental models for infectious diseases dynamics](https://www.scielo.br/j/rbef/a/HsQxH85ndLXLy78vXTCfVct/?lang=en). *Revista Brasileira de Ensino de Física, 43*.
+
+9. Viana, R. L., Caldas, I. L., Szezech Jr, J. D., Batista, A. M., Abud, C. V., Schelin, A. B., Mugnaine, M. Santos, M. S.,  Leal, B.B., Bartoloni, B  & Morrison, P. J. (2021). [Transport barriers in symplectic maps](https://link.springer.com/article/10.1007/s13538-021-00894-8). *Brazilian Journal of Physics, 51, 899-909*.
+
+10. Mugnaine, M., Batista, A. M., Caldas, I. L., Szezech Jr., J. D., De Carvalho, R. E., & Viana, R. L. (2021). [Curry–Yorke route to shearless attractors and coexistence of attractors in dissipative nontwist systems](https://pubs.aip.org/aip/cha/article/31/2/023125/1078943). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 31(2)*.
+
+11. Mugnaine, M., Batista, A. M., Caldas, I. L., Szezech Jr., J. D., & Viana, R. L. (2020). [Ratchet current in nontwist Hamiltonian systems](https://pubs.aip.org/aip/cha/article/30/9/093141/341952). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(9)*.
+
+12. Mathias, A. C., Mugnaine, M., Santos, M. S., Szezech Jr, J. D., Caldas, I. L., & Viana, R. L. (2019). [Fractal structures in the parameter space of nontwist area-preserving maps](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.052207). *Physical Review E, 100(5), 052207*.
+
+13. Santos, M. S., Mugnaine, M., Szezech, J. D., Batista, A. M., Caldas, I. L., & Viana, R. L. (2019). [Using rotation number to detect sticky orbits in Hamiltonian systems](https://pubs.aip.org/aip/cha/article/29/4/043125/321593). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(4)*.
+
+14. Mugnaine, M., Andrade, F. M., Szezech, J. D., & Bazeia, D. (2019). [Basin entropy behavior in a cyclic model of the rock-paper-scissors type](https://iopscience.iop.org/article/10.1209/0295-5075/125/58003/meta). *Europhysics Letters, 125(5), 58003*.
+
+15. Mugnaine, M., Reis, A. S., Borges, F. S., Borges, R. R., Ferrari, F. A., Iarosz, K. C., ... & Batista, A. M. (2018). [Delayed feedback control of phase synchronisation in a neuronal network model](https://link.springer.com/article/10.1140/epjst/e2018-800031-y). *The European Physical Journal Special Topics, 227, 1151-1160*.
+
+16. Santos, M. S., Mugnaine, M., Szezech, J. D., Batista, A. M., Caldas, I. L., Baptista, M. S., & Viana, R. L. (2018). [Recurrence-based analysis of barrier breakup in the standard nontwist map](https://pubs.aip.org/aip/cha/article/28/8/085717/988643). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 28(8)*.
+
+17. Mugnaine, M., Mathias, A. C., Santos, M. S., Batista, A. M., Szezech Jr, J. D., & Viana, R. L. (2018). [Dynamical characterization of transport barriers in nontwist Hamiltonian systems](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.012214). *Physical Review E, 97(1), 012214*.
+
+
 
 ## Conference presentations
 
