@@ -36,8 +36,8 @@ State University of Ponta Grossa\
 
 
 
-## Researche experience
-* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>
+## Research experience
+* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>\
 University of São Paulo\
   * Postdoctoral researcher at the Institute of Physics of University of São Paulo
   * Theoretical and numerical investigation of Oscillations in Magnetically Confined Plasmas
