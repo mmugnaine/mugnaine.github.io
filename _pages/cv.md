@@ -37,7 +37,13 @@ State University of Ponta Grossa\
 
 
 ## Researche experience
-* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>
+* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2023**</span>\
+University of Texas at Austin\
+  * Postdoctoral researcher at the Institute for Fusion Studies of University of Texas at Austin
+  * Theoretical and numerical investigation of mechanism of transport in symplectic maps
+  * Supervisor: Prof.  Philip J. Morrison
+
+* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>\
 University of São Paulo\
   * Postdoctoral researcher at the Institute of Physics of University of São Paulo
   * Theoretical and numerical investigation of Oscillations in Magnetically Confined Plasmas
