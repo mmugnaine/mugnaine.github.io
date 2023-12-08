@@ -15,7 +15,7 @@ redirect_from:
 * Ecological models
 
 ## Academic Background
-* 2022 - now: Postdoc at ([USP](https://www5.usp.br/))
+* 2022 - now: Postdoc ([USP](https://www5.usp.br/))
 * 2019 - 2022: Ph.D in Physics ([UFPR](https://ufpr.br/))
 * 2017-2019: M.S. in Physics ([UEPG](https://www.uepg.br/))
 * 2013 - 2016: B.S. in Physics ([UEPG](https://www.uepg.br/) )
