@@ -22,5 +22,5 @@ redirect_from:
 
 ## News
 
-* New manuscript published: [Nontwist field line mapping in a tokamak with ergodic magnetic limiter](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.055206)
+* New manuscript posted on ArXiv: [Shearless effective barriers to chaotic transport induced by even twin islands in nontwist systems](https://arxiv.org/abs/2406.19947)
 * New manuscript posted on ArXiv: [Isochronous bifurcations in a two-parameter twist map](https://arxiv.org/abs/2312.12552)
