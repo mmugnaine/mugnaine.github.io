@@ -73,7 +73,9 @@ State University of Ponta Grossa
 
 ## Publications
 
-18. Souza, L. C. ; Sales, M. R. ; Mugnaine, M. ; Szezech, J. D. ; Caldas, I. L. ; Viana, R. L. (2024) [Chaotic escape of impurities and sticky orbits in toroidal plasmas](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.015202). *Physical Review E*, 109, 015202.
+1. Mugnaine, M. Leal, B. B., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2024) [Isochronous bifurcations in a two-parameter twist map](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.024206). *Physical Review E*, 110, 024206.
+
+18. Souza, L. C. , Sales, M. R. , Mugnaine, M. , Szezech, J. D. , Caldas, I. L. , Viana, R. L. (2024) [Chaotic escape of impurities and sticky orbits in toroidal plasmas](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.015202). *Physical Review E*, 109, 015202.
 
 17. Mugnaine, M., Caldas, I. L., Szezech Jr, J. D., & Viana, R. L. (2023). [Nontwist field line mapping in a tokamak with ergodic magnetic limiter](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.055206). *Physical Review E*, 108(5), 055206.
 
