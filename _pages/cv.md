@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Michele Mugnaine
-Institute of Physics\
-University of São Paulo - São Paulo, SP, Brazil\
+Professor of Mathematics\
+School of Engineering of Lorena\
+University of São Paulo - Brazil\
 [mmugnaine@gmail.com](mailto:mmugnaine@gmail.com)\
 **Web of Science ResearcherID**: IXD-3077-2023\
 **ORCiD**: 0000-0002-8169-4723
@@ -73,7 +74,13 @@ State University of Ponta Grossa
 
 ## Publications
 
-1. Mugnaine, M. Leal, B. B., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2024) [Isochronous bifurcations in a two-parameter twist map](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.024206). *Physical Review E*, 110, 024206.
+22. Leal, B. B., Lazarotto, M. J., Mugnaine, M., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2025) [Secondary shearless bifurcations for two isochronous resonant perturbations](https://pubs.aip.org/aip/cha/article-abstract/35/4/043136/3344494/Secondary-shearless-bifurcations-for-two?redirectedFrom=fulltext). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 35, 043136.*
+
+21. Sales, M. R., Mugnaine, M., Leonel, E. D., Caldas, I. L., Szezech Jr., J. D. (2024) [Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map](https://pubs.aip.org/aip/cha/article-abstract/34/11/113129/3320828/Shrinking-shrimp-shaped-domains-and-multistability?redirectedFrom=fulltext). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 34, 113129*
+
+20. Mugnaine, M., Szezech Jr., J. D.,  Viana, R. L., Caldas, I. L., Morrison, P. J. (2024) [Shearless effective barriers to chaotic transport induced by even twin islands in nontwist systems](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044201). *Physical Review E*, 110, 044201.
+
+19. Mugnaine, M., Leal, B. B., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2024) [Isochronous bifurcations in a two-parameter twist map](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.024206). *Physical Review E*, 110, 024206.
 
 18. Souza, L. C. , Sales, M. R. , Mugnaine, M. , Szezech, J. D. , Caldas, I. L. , Viana, R. L. (2024) [Chaotic escape of impurities and sticky orbits in toroidal plasmas](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.015202). *Physical Review E*, 109, 015202.
 
@@ -81,7 +88,7 @@ State University of Ponta Grossa
 
 16. Viana, R. L., Mugnaine, M., & Caldas, I. L. (2023). [Hamiltonian description for magnetic field lines in fusion plasmas: A tutorial](https://pubs.aip.org/aip/pop/article/30/9/090901/2913098/Hamiltonian-description-for-magnetic-field-lines). *Physics of Plasmas, 30(9)*.
 
-15. Sales, M. R., Mugnaine, M., Szezech, J. D., Viana, R. L., Caldas, I. L., Marwan, N., & Kurths, J. (2023). [Stickiness and recurrence plots: An entropy-based approach](https://pubs.aip.org/aip/cha/article/33/3/033140/2881440/Stickiness-and-recurrence-plots-An-entropy-based). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(3)*.
+15. Sales, M. R., Mugnaine, M., Szezech, J. D., Viana, R. L., Caldas, I. L., Marwan, N., & Kurths, J. (2023). [Stickiness and recurrence plots: An entropy-based approach](https://pubs.aip.org/aip/cha/article/33/3/033140/2881440/Stickiness-and-recurrence-plots-An-entropy-based). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 33, 033140.*.
 
 14. Mugnaine, M., Sales, M. R., Szezech Jr, J. D., & Viana, R. L. (2022). [Dynamics, multistability, and crisis analysis of a sine-circle nontwist map](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034203). *Physical Review E, 106(3), 034203*.
 
