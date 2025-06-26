@@ -11,7 +11,7 @@ redirect_from:
 
 ## Michele Mugnaine
 Professor of Mathematics\
-School of Engineering of Lorena\
+Lorena School of Engineering\
 University of São Paulo - Brazil\
 [mmugnaine@gmail.com](mailto:mmugnaine@gmail.com)\
 **Web of Science ResearcherID**: IXD-3077-2023\
@@ -124,17 +124,29 @@ State University of Ponta Grossa
 
 ### Oral presentations
 
-1. 1st Applied Dynamics Workshop. Curitiba, PR - Brazil. May 2023. Mugnaine, M. *“Multistability and chaotic attractor crisis in the non-twist sine-circle map”*.
+12. SIAM Conference on Applications of Dynamical Systems (DS25). Denver - CO, EUA. May 2025. Mugnaine, M. *"Description of Transport Barriers in Nontwist Maps"*.
 
-2. Dynamics Days Europe 2021. Nice - France. August 2021 Mugnaine, M.; Batista, A. M. ; Caldas, I. L. ; Szezech Jr., J. D. ; Carvalho, R. E. ; Viana, R. L. *“Dissipation in the standard nontwist map: the route to chaos and the coexistence of attractors”* (online presentation).
+11. Dynamics Days Latin America and the Caribbean. Buenos Aires - Argentina. December 2024. Mugnaine, M. *"Description of Magnetic Field Lines: From the Variational Principle to Applications in Toroidal Plasmas"*.
 
-3. International Max Planck Research School for Many Particle Systems in Structured Environments. Karpacz - Poland. September 2019. Mugnaine, M.; Andrade, F. M. ; Szezech, J. D. ; Bazeia, D. *“Basin Entropy Method Applied to a Cyclic Three-Species Competition Model”*.
+10. XXII Brazilian Colloquium on Orbital Dynamics, CBDO. São José dos Campos - SP, Brazil. December 2024.  Mugnaine, M., Caldas, I. L. *"Isochronous Bifurcations"*.
 
-4. School and Workshop on Patterns of Synchrony: Chimera States and Beyond. Trieste - Italy. May 2019. Mugnaine, M.  *“Transport barriers and flux of trajectories in nontwist systems”*.
+9. 3rd Perspectives on Oscillation Control workshop (POC 2024). São Paulo - SP, Brazil. September 2024. Mugnaine, M.  *"The impact of mobility in cellular automata based models"*. 
 
-5. Seminars in the Graduate Program in Science/Physics - UEPG. Ponta Grossa, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Transport in Nontwist Hamiltonian Systems”*.
+8. VI Workshop on Nonlinear Dynamics. Rio Claro - SP, Brazil. July 2024. Mugnaine, M.  *"How parity and symmetry affect the transport in nontwist maps"*. 
 
-6. Workshop on applied non-linear dynamics in the Graduate Program in Physics at UFPR. Curitiba, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Symmetry breaking on non-twist maps”*.
+7. Trends in Hamiltonian systems, chaos and its applications. Marseille -  France. May 2024. Mugnaine, M.  *“Isochronous bifurcations"*.
+
+6. 1st Applied Dynamics Workshop. Curitiba, PR - Brazil. May 2023. Mugnaine, M. *“Multistability and chaotic attractor crisis in the non-twist sine-circle map”*.
+
+5. Dynamics Days Europe 2021. Nice - France. August 2021 Mugnaine, M.; Batista, A. M. ; Caldas, I. L. ; Szezech Jr., J. D. ; Carvalho, R. E. ; Viana, R. L. *“Dissipation in the standard nontwist map: the route to chaos and the coexistence of attractors”* (online presentation).
+
+4. International Max Planck Research School for Many Particle Systems in Structured Environments. Karpacz - Poland. September 2019. Mugnaine, M.; Andrade, F. M. ; Szezech, J. D. ; Bazeia, D. *“Basin Entropy Method Applied to a Cyclic Three-Species Competition Model”*.
+
+3. School and Workshop on Patterns of Synchrony: Chimera States and Beyond. Trieste - Italy. May 2019. Mugnaine, M.  *“Transport barriers and flux of trajectories in nontwist systems”*.
+
+2. Seminars in the Graduate Program in Science/Physics - UEPG. Ponta Grossa, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Transport in Nontwist Hamiltonian Systems”*.
+
+1. Workshop on applied non-linear dynamics in the Graduate Program in Physics at UFPR. Curitiba, PR - Brazil. 2018. Mugnaine, M.; Szezech Jr., J. D. *“Symmetry breaking on non-twist maps”*.
 
 ### Poster presentation
 
