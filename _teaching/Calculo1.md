@@ -4,17 +4,15 @@ collection: teaching
 type: "Curso de graduação"
 permalink: /teaching/Calculo1
 venue: "Departamento de Ciências Básicas e Ambientais da Escola da Engenharia de Lorena"
-date: 2015-07-28
+date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Objetivo
+Fornecer fundamentos teóricos de limite e derivadas, destacando aspectos geométricos e interpretações físicas, elementos fundamentais para estudos de Engenharia.
 
-Objetivo
-======
+## Ementa 
+Números Reais, funções de variável real, limites e derivadas de funções Reais. Aplicações da derivada e Fórmula de Taylor.
 
-Heading 2
-======
-
-Heading 3
-======
+## Aulas
+* Aula 1 - [Apresentação](http://mmugnaine.github.io/files/paper1.pdf)
