@@ -8,8 +8,7 @@ date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-## Objetivo
-Fornecer fundamentos teóricos de limite e derivadas, destacando aspectos geométricos e interpretações físicas, elementos fundamentais para estudos de Engenharia.
+
 
 ## Apresentação
 [Conteúdo e avaliação](http://mmugnaine.github.io/files/Calculo1/Conteudo.pdf)
