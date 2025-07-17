@@ -11,8 +11,12 @@ location: "Lorena, Brasil"
 ## Objetivo
 Fornecer fundamentos teóricos sobre vetores, retas no espaço e plano (com suas relações), cônicas e quádricas, tópicos essenciais no estudo de todas Engenharias.
 
-## Ementa 
-Vetores. Vetores no R2  e no R3. Dependência Linear. Produtos de Vetores. A Reta. O Plano. Distâncias. Coordenadas Polares. Mudança de Coordenadas. Cônicas. Superfícies Quádricas. Equações Paramétricas.
+## Apresentação
+[Conteúdo e avaliação](http://mmugnaine.github.io/files/GA/Conteudo.pdf)
+
 
 ## Aulas
 * Aula 1 - [Apresentação](http://mmugnaine.github.io/files/paper1.pdf)
+
+
+files/GA/Conteudo.pdf
