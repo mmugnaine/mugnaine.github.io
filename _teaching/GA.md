@@ -8,10 +8,6 @@ date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-## Objetivo
-Fornecer fundamentos teóricos sobre vetores, retas no espaço e plano (com suas relações), cônicas e quádricas, tópicos essenciais no estudo de todas Engenharias.
-
-## Apresentação
 [Conteúdo e avaliação](http://mmugnaine.github.io/files/GA/Conteudo.pdf)
 
 
