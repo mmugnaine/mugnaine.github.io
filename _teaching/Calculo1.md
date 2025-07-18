@@ -8,9 +8,6 @@ date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-
-
-## Apresentação
 [Conteúdo e avaliação](http://mmugnaine.github.io/files/Calculo1/Conteudo.pdf)
 
 
